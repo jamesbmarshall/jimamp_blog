@@ -250,9 +250,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-webmaster_verifications:
-  google: SlS9h9ffsJitbqZ7Gob_b2sI5YlzmoyHnPN7hU7GE30
-  bing: 48CA4567666EDDF15437B42A233B31B9
+#webmaster_verifications:
+ # google: SlS9h9ffsJitbqZ7Gob_b2sI5YlzmoyHnPN7hU7GE30
+  #bing: 48CA4567666EDDF15437B42A233B31B9
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

@@ -17,10 +17,6 @@
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} {{ site.title-separator }} {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
-  
-  <!-- Favicon -->
-  <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
-
   {% include gtag.html %}
   {% include gtm_head.html %}
   {% include google_analytics.html %}
@@ -60,6 +56,9 @@
       <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}" />
     {% endfor %}
   {% endif %}
+    
+  <!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="/img/favicon.ico">
 
     <!-- Facebook OpenGraph tags -->
   {% if site.fb_app_id %}
