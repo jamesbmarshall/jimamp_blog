@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 subtitle: Who the heck is this guy anyway?
+image: /img/head.jpg
 ---
 
 Hi! I'm JimAmp, or James in real life. I enjoy playing games, streaming, and generally geeking out with technology. By day, I work for Microsoft and you can find out more about my ["real life" elsewhere](https://jamesbmarshall.com). Here, I'm the unlikely gaming Dad who's just here for a laugh and to make some friends along the way.
