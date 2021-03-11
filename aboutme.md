@@ -4,16 +4,12 @@ title: About Me
 subtitle: Who the heck is this guy anyway?
 ---
 
-Hi! I'm James and I am the SMB Customer Lead for Azure at Microsoft in the UK. I work with amazing people on how they can achieve their goals with the AWESOME power of Microsoft Azure.
+Hi! I'm JimAmp, or James in real life. I enjoy playing games, streaming, and generally geeking out with technology. By day, I work for Microsoft and you can find out more about my ["real life" elsewhere](https://jamesbmarshall.com). Here, I'm the unlikely gaming Dad who's just here for a laugh and to make some friends along the way.
 
-I started my career in IT in the real world; as an IT Technician in a local secondary school. After becoming a Network Manager I took a career break to go to Reading University in 2008 to study Information Technology.
+I've been playing computer games since I was a kid, but I've never really been any good at them. In fact, I think I've only ever completed one in my life (so far, at least): Metroid 2. Some time in 2020 I decided to start streaming, originally on Mixer and now on Twitch. I'm not doing it to become famous or rich, but because I enjoy meeting new people, having fun, and knowing that people might be watching forces me to actually play games "properly"! That said, I wouldn't say no to becoming rich and famous! 👀
 
-I've been at Microsoft since 2010 and am proud to have consulted on some of the biggest Office 365 Education deployments in the world, transforming the experience of students and teachers with cutting-edge cloud technology. I have also helped dozens of public sector organisations move away from Windows XP to a modern, secure platform and have even spent some time leading a high-performing technical sales team, co-selling with highly skilled Microsoft Partners. I've been the CTO for Small &amp; Medium-Sized Businesses for the UK, and most recently was a Technology Strategist for some of the world's largest Microsoft distributors, resellers and licensing solution providers.
+I also enjoy the 'art' of streaming - learning about sound, lighting, streaming technology, etc. I'd taken theatre studies when I was in school and always liked the technical side of things, so streaming on Twitch allows me to explore that further. I might not be the best gamer, but I want me stream to be the best quality it can so you can at least watch me be average in high definition!
 
-One of my favourite things to do is <a href="http://jamesbmarshall.com/speaking/">get up in front of an audience</a> and talk about how Microsoft technology can help get people on the path to "Digital Transformation".
+Anyway, thanks for stopping by and maybe I'll see you in the chat on my [stream](https://twitch.tv/JimAmp), or on [YouTube](https://www.youtube.com/channel/UCYPy026hEqSmwsix1WfgidA)!
 
-You're probably a geek at heart - so am I; with a big passion for using technology in new ways to help people achieve more. In my spare time, I dabble with electronics (my favourite YouTube channel is <a href="http://youtube.com/bigclivedotcom" target="_blank" rel="noopener">bigclivedotcom</a>), like to build things with my BBC micro:bit and various Raspberry Pis, eat good food and spend time with my wonderful family.
-
-But enough about me. I want to hear from <strong>YOU</strong>. I love hearing about the cool stuff you're doing with technology, especially Microsoft technology. You can find me online in most forms of social media as <a class="" href="http://twitter.com/jamesbmarshall">jamesbmarshall</a>.
-
-Tweet me and say hello!
+JimAmp
