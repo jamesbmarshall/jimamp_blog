@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Week Log 7
-subtitle: Thoughts and things I've learned this week.
-summary: Thoughts and things I've learned this week.
+title: Why I Stream
+subtitle: It's not all vanity and attention seeking!
+summary: It's not all vanity and attention seeking!
 image: /img/numerals/VII.png
 share-img: /img/numerals/VII_card.png
-tags: [week log]
+#tags: [week log]
 comments: true
 ---
 
