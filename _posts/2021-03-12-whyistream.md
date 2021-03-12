@@ -9,18 +9,18 @@ image: /img/question.jpg
 comments: true
 ---
 
-This has been, on balance, a good week. As the situation with the pandemic goes on, I am finding things harder but it's important to remember all the good that there is as well as the challenges. 
+I'd always imagined that streaming was for someone else. I'm not that cool, I don't know what I'm doing, I don't have the right stuff. People might laugh at me. Then, I saw a friend of mine had been streaming back when Mixer was still a thing. It suddenly made it feel real - I knew someone who did this and it didn't seem that hard anymore. He had built a vibrant community of friends, and watching him play and interact with people was entertaining and motivating enough for me to think that maybe I _could_ do it after all.
 
-This week:
+I'd been thinking about building a new PC for gaming, and COVID was on the horizon, so I knew I'd find myself with more time on my hands than before. But I still lacked the confidence to push the button to go live! I'd spent so much time tweaking my environment, setting up the software, developing some branding, etc. but I still feared the judgement, and so for a long time I put all that effort towards improving my work calls, since I use the same set up for Microsoft Teams as I do for streaming.
 
-1. I get a lot of energy from coaching early in career employees, and I did a course on coaching to support my growth in this area. However, it's hard to put that training into practice - the notion of listening longer before rushing to advice. Especially when the "coachee" outright asks you for your opinion or experiences of a situation! I find myself being dragged into more of a mentoring role, which I think is more of what early in career people need. Coaching feels like it might be better suited to people slightly further ahead in their career... not sure. Needs more thought.
+Then one day, I'm not sure exactly what pushed me over the edge, I started streaming. To nobody at first, or occasionally a fleeting visit from a random. It didn't matter.  It just felt exhilirating to be 'live'.
 
-2. I'm feeling like the organisational state of my shed is a physical manifestation of my state of mind, and so cleaning it up a bit this weekend was somewhat cathartic! I'm terrible at taking notes and actions, I keep it all in my head. My head's feeling more full than normal, so decluttering feels good. I also reached out to a tax advisor! I devote far too much stress and time to trying to sort my own tax affairs out and I have decided that it's best just to outsource that to an expert rather than keep putting pressure on myself. It distracts me, and that impacts on my time with the family - they really notice when I'm distracted, and it's not fair on them.
+I've often said that I'm not doing it to become famous or rich, and that's absoultely true. I stream for three main reasons: 1) it's fun, and I enjoy playing games with people and having the interaction. 2) It builds my confidence having to think on my feet, fill the silence, run the show - it's hard work. 3) It makes me enjoy the games I play more, because I'm forced to play them properly. I'm a terrible gamer, I don't have the patience a lot of the time. I guess it's why I've completed so few games, and don't really feel like I'm hooked into any one franchise. But if I'm streaming, I owe it to my viewer to play properly. I'm not a pro, I'm not endorsed or paid by anyone to do it. I'm just your average Dad, sitting in my shed, enjoying gaming... and I want to be relateable to the versions of me out there who will never stream, but who might watch.
 
-3. I feel more positive than ever about the extension work, now that concrete has been poured and it feels like we've made a tangible step foward. I mean, a giant moat in my garden is also a step foward, but I think there's a distinction between taking stuff out of the ground and putting stuff into it. I'm excited for next week when blocks and bricks go down. It'll start to look like an extension and I'll be grinning!
+Mental health has become particularly important for me in the last year, being under lockdown at home. As my confidence has built, I've even begun to stream with my sister. It's great to be able to do something together even though we're separated by hundreds of miles. We're probably more in touch with each other now than any time since she's been alive.
 
-4. I wrote last week about the sudden loss of my neighbour's wife. I've thought a lot about that this week. Through this pandemic I've found myself longing for some alone time (steady!). Whenever my family are away (or in the beforetimes, when I'd be away with work), I miss them terribly even though I enjoy the peace and quiet. But for my neighbour, whose children have grown up and left home, that peace and quiet is permanent. It made me feel suddenly so selfish and wasteful to want that time to myself when one day, it might be all I have.
+So that's it, really. The Internet is full of horrible people, but that doesn't mean you can't still meet great people, and have fun, and that's exactly what I'm doing.
 
-5. I had a flurry of creative inspiration today. Felt good.
+The fear hasn't gone away entirely, but now I run towards it.
 
-Stay safe.
+Thanks, [8-Bit-Eliott](https://twitter.com/8BitEliott), for introducing me to this brilliant hobby.
