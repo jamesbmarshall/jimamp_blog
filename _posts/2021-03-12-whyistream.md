@@ -3,7 +3,7 @@ layout: post
 title: Why I Stream
 subtitle: It's not all vanity and attention seeking!
 summary: It's not all vanity and attention seeking!
-image: /img/question.jpg
+image: /img/numerals/I.png
 share-img: /img/numerals/I_card.png
 tags: [general]
 comments: true
