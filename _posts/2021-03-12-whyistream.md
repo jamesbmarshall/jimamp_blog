@@ -4,7 +4,7 @@ title: Why I Stream
 subtitle: It's not all vanity and attention seeking!
 summary: It's not all vanity and attention seeking!
 image: /img/question.jpg
-twitter-card: /img/twitter_cards/whyistream.jpg
+share-img: /img/twitter_cards/whyistream.jpg
 tags: [general]
 comments: true
 ---
