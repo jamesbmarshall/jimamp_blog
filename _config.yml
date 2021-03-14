@@ -248,7 +248,11 @@ prose:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  #- jekyll-seo-tag
+  - jekyll-seo-tag
+
+twitter:
+  username: TheRealJimAmp
+  card: summary
 
 #webmaster_verifications:
  # google: SlS9h9ffsJitbqZ7Gob_b2sI5YlzmoyHnPN7hU7GE30
